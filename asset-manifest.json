@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Foodie-app/static/css/main.00ad5815.chunk.css",
+    "main.js": "/Foodie-app/static/js/main.8a787f07.chunk.js",
+    "main.js.map": "/Foodie-app/static/js/main.8a787f07.chunk.js.map",
+    "runtime-main.js": "/Foodie-app/static/js/runtime-main.f07987bf.js",
+    "runtime-main.js.map": "/Foodie-app/static/js/runtime-main.f07987bf.js.map",
+    "static/js/2.2f52802c.chunk.js": "/Foodie-app/static/js/2.2f52802c.chunk.js",
+    "static/js/2.2f52802c.chunk.js.map": "/Foodie-app/static/js/2.2f52802c.chunk.js.map",
+    "static/js/3.f714d659.chunk.js": "/Foodie-app/static/js/3.f714d659.chunk.js",
+    "static/js/3.f714d659.chunk.js.map": "/Foodie-app/static/js/3.f714d659.chunk.js.map",
+    "index.html": "/Foodie-app/index.html",
+    "static/css/main.00ad5815.chunk.css.map": "/Foodie-app/static/css/main.00ad5815.chunk.css.map",
+    "static/js/2.2f52802c.chunk.js.LICENSE.txt": "/Foodie-app/static/js/2.2f52802c.chunk.js.LICENSE.txt",
+    "static/media/expensive.6449ceef.jpg": "/Foodie-app/static/media/expensive.6449ceef.jpg",
+    "static/media/margherita.683bc9bb.jpg": "/Foodie-app/static/media/margherita.683bc9bb.jpg",
+    "static/media/multiplePizzas.490709e2.jpeg": "/Foodie-app/static/media/multiplePizzas.490709e2.jpeg",
+    "static/media/pedrotechspecial.425951cb.jpg": "/Foodie-app/static/media/pedrotechspecial.425951cb.jpg",
+    "static/media/pepperoni.d173e5db.jpg": "/Foodie-app/static/media/pepperoni.d173e5db.jpg",
+    "static/media/pineapple.a01ab9be.jpg": "/Foodie-app/static/media/pineapple.a01ab9be.jpg",
+    "static/media/pizza.21a1098f.jpeg": "/Foodie-app/static/media/pizza.21a1098f.jpeg",
+    "static/media/pizzaLeft.24b07891.jpg": "/Foodie-app/static/media/pizzaLeft.24b07891.jpg",
+    "static/media/pizzaLogo.fcdc67e6.png": "/Foodie-app/static/media/pizzaLogo.fcdc67e6.png",
+    "static/media/vegan.52cbfe9e.jpg": "/Foodie-app/static/media/vegan.52cbfe9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f07987bf.js",
+    "static/js/2.2f52802c.chunk.js",
+    "static/css/main.00ad5815.chunk.css",
+    "static/js/main.8a787f07.chunk.js"
+  ]
+}
