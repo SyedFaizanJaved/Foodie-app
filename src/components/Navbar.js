@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React, { useState } from "react";
 import Logo from "../assets/pizzaLogo.png";
 import { Link } from "react-router-dom";
